@@ -1,0 +1,31 @@
+------Italian Records Creation--------
+Created Record Name = Italian1 Restaurant Masterchef = Jagan
+Created Record Name = Italian paradise Masterchef = KCR
+------Italian  Listing Multiple Records--------
+ID : 1, Name : Italian1 Restaurant, Masterchef : Jagan
+ID : 2, Name : Italian paradise, Masterchef : KCR
+----Italian Updating Record with ID = 2 -----
+Updated Record with ID = 2
+----Italian Listing Record with ID = 2 -----
+ID : 2, Name : La Pinos, Masterchef : KCR
+----Italian Deleting the Record with iD = 2 -----
+Deleted Record with ID = 2
+------Italian Listing Multiple Records after deleting--------
+ID : 1, Name : Italian1 Restaurant, Masterchef : Jagan
+------French Records Creation--------
+Created Record Name = French1 restaurant Masterchef = chennai super kings
+Created Record Name = French2 restaurant Masterchef = Mumbai Indians
+Created Record Name = French3 restaurant Masterchef = Kings 11 punjab
+------French Listing Multiple Records--------
+ID : 1, Name : French1 restaurant, Masterchef : chennai super kings
+ID : 2, Name : French2 restaurant, Masterchef : Mumbai Indians
+ID : 3, Name : French3 restaurant, Masterchef : Kings 11 punjab
+----French Updating Record with ID = 2 -----
+Updated Record with ID = 3
+----French Listing Record with ID = 3 -----
+ID : 3, Name : Ratatouille, Masterchef : Kings 11 punjab
+----French Deleting the Record with iD = 3 -----
+Deleted Record with ID = 3
+------French Listing Multiple Records after deleting--------
+ID : 1, Name : French1 restaurant, Masterchef : chennai super kings
+ID : 2, Name : French2 restaurant, Masterchef : Mumbai Indians
