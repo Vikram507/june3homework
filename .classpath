@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-aop-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-aspects-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-beans-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-context-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-context-indexer-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-context-support-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-core-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-expression-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-instrument-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-jcl-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-jdbc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-jms-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-messaging-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-orm-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-oxm-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-r2dbc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-test-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-tx-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-web-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-webflux-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-webmvc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/simplilearn stuff/Libraries/spring required libraries all in one/spring-websocket-5.3.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
